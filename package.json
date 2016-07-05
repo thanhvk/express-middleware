@@ -1,0 +1,16 @@
+{
+  "name": "express-static-server",
+  "version": "1.0.0",
+  "description": "Express static server",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "nodemon app.js"
+  },
+  "author": "thanhvk",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0"
+  }
+}
